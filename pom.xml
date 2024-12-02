@@ -19,6 +19,13 @@
         </repository>
     </distributionManagement>
 
+    <repositories>
+        <repository>
+            <id>Satora4</id>
+            <url>https://maven.pkg.github.com/Satora4/m324-artefacts</url>
+        </repository>
+    </repositories>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
