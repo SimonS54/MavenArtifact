@@ -15,7 +15,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/SimonS54/MavenArtifacts</url>
+            <url>https://maven.pkg.github.com/SimonS54/MavenArtifact</url>
         </repository>
     </distributionManagement>
 
